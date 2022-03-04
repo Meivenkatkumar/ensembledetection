@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# https://github.com/Meivenkatkumar/ensembledetection
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
