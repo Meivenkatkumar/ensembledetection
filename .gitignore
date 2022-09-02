@@ -143,3 +143,8 @@ pip-selfcheck.json
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Environment Folders
+etc/
+images/
+share/
